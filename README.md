@@ -10,4 +10,4 @@ Enjoy.
 
 Installation:
 
-Just copy the file into your vst3 folder.
+Just copy the file "GAYN.vst3" into your vst3 folder.
