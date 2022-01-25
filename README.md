@@ -7,3 +7,7 @@ Getting your levels correct before starting a mix is essential to give you the h
 This is a free plugin, its in alpha stage and I have plans to add features like Hi/Low Pass Filtering, Stereo to mono downmixing, and eventually expanding it into a full featured track plugin. 
 
 Enjoy.
+
+Installation:
+
+Just copy the file into your vst3 folder.
