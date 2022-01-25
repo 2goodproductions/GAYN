@@ -11,3 +11,8 @@ Enjoy.
 Installation:
 
 Just copy the file "GAYN.vst3" into your vst3 folder.
+
+
+TODO:
+
+I need to implement state saving as plugin resets to zero upon reload.
